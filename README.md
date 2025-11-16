@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hello there!
+
+<img src="https://c.tenor.com/mvMWISZvz6oAAAAd/tenor.gif" alt="Di di di" width="auto" height="480">
 
 <!--
 **tkimhong/tkimhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
